@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PCOOV-pairings/static/css/main.6a3c81f5.css",
+    "main.js": "/PCOOV-pairings/static/js/main.7eeedbb7.js",
+    "index.html": "/PCOOV-pairings/index.html",
+    "main.6a3c81f5.css.map": "/PCOOV-pairings/static/css/main.6a3c81f5.css.map",
+    "main.7eeedbb7.js.map": "/PCOOV-pairings/static/js/main.7eeedbb7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a3c81f5.css",
+    "static/js/main.7eeedbb7.js"
+  ]
+}
