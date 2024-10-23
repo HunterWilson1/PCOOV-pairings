@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/PCOOV-pairings/static/css/main.6a3c81f5.css",
-    "main.js": "/PCOOV-pairings/static/js/main.7eeedbb7.js",
+    "main.css": "/PCOOV-pairings/static/css/main.1a74d44a.css",
+    "main.js": "/PCOOV-pairings/static/js/main.b280eabb.js",
     "index.html": "/PCOOV-pairings/index.html",
-    "main.6a3c81f5.css.map": "/PCOOV-pairings/static/css/main.6a3c81f5.css.map",
-    "main.7eeedbb7.js.map": "/PCOOV-pairings/static/js/main.7eeedbb7.js.map"
+    "main.1a74d44a.css.map": "/PCOOV-pairings/static/css/main.1a74d44a.css.map",
+    "main.b280eabb.js.map": "/PCOOV-pairings/static/js/main.b280eabb.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a3c81f5.css",
-    "static/js/main.7eeedbb7.js"
+    "static/css/main.1a74d44a.css",
+    "static/js/main.b280eabb.js"
   ]
 }
